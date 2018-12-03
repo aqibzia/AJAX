@@ -1,0 +1,17 @@
+[
+	{
+		"name":"Apple", "color": "Red", "origin": "India", "price": "120",
+	},
+	{
+		"name":"Banana", "color": "Yellow", "origin": "India", "price": "60",
+	},
+	{
+		"name":"Mango", "color": "Yellow", "origin": "India", "price": "70",
+	},
+	{
+		"name":"Grapes", "color": "Green", "origin": "India", "price": "40",
+	},
+	{
+		"name":"Orange", "color": "Orange", "origin": "India", "price": "50",
+	}
+]
